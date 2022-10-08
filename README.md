@@ -12,11 +12,9 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaivetrik24062010
-)](https://github.com/nikolaivetrik24062010
-/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaivetrik24062010)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaivetrik24062010&show_icons=true&locale=en&layout=compact" alt="nikolaivetrik24062010" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaivetrik24062010&show_icons=true&locale=en" alt="nikolaivetrik24062010" /></p>
 
