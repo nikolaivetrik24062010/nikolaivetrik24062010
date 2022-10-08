@@ -2,4 +2,4 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikolay</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a Junior Android Developer</h3>
-<img src="https://seeklogo.com/vector-logo/272810/android">
+<img src="https://img.shields.io/badge/Java-141415?style=for-the-badge&logo=Java&logoColor=ЦВЕТ ЛОГОТИПА"/>
