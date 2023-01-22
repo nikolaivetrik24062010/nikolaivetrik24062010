@@ -19,8 +19,8 @@ Here you will find some of my projects made for study cases. Please, feel free t
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaivetrik24062010&" alt="nikolaivetrik24062010" /></p>
 
 - 💬 Telegram **https://t.me/Nikolai24062010**
-
 - 📫 My mail **vetrik21@gmail.com**
+- 💬 My JetBrains acount **https://hyperskill.org/profile/203313244**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
