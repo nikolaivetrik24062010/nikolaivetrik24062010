@@ -4,6 +4,13 @@
 <h3 align="center">I'm a Android Developer</h3>
 Here you will find some of my projects made for study cases. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated.
 
+### About me
+- 🌱 I improve my knowledge in **Android development**
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/nikolay-vetrik-9325b7254/)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌍 I speak English
+
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18096783/nikolai-vetrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18096783" height="30" width="40" /></a>
