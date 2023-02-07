@@ -5,7 +5,6 @@
 Here you will find some of my projects made for study cases. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated.
 
 <h3 align="left">Contact:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18096783/nikolai-vetrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18096783" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100086500604294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100086500604294&mibextid=LQQJ4d" height="30" width="40" /></a>
