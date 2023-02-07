@@ -8,7 +8,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 - 🌱 I improve my knowledge in **Android development**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/nikolay-vetrik-9325b7254/)
 - 📄 Know about my experiences [CV](https://www.canva.com/design/DAFPxM39wjU/CGX3fTq6JSO9_2gLKp1q5w/edit?utm_content=DAFPxM39wjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 🌍 I speak English
+- 🌎 I speak English
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
