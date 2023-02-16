@@ -7,7 +7,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 ### About me
 - 🌱 I improve my knowledge in **Android development**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/nikolay-vetrik-9325b7254/)
-- 📄 Know about my experiences [CV](https://www.canva.com/design/DAFPxM39wjU/CGX3fTq6JSO9_2gLKp1q5w/edit?utm_content=DAFPxM39wjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1lEWvVAzUp7ULkCiHWGnWCIUWYjGDLr8wVPFd8KhZi3U/edit?usp=sharing)
 - 🌎 I speak English
 
 <h3 align="left">Contact me:</h3>
