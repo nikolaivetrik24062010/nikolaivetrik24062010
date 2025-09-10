@@ -9,6 +9,9 @@ Feel free to fork, submit PRs, open issues, or share your feedback - all suggest
 - 📜 Preparing for industry-recognized certifications such as **CompTIA Security+**, **AWS Certified Cloud Practitioner**, and more.
 - 📝 I share insights on technology and career growth on [LinkedIn](https://www.linkedin.com/in/nikolayvetrik24062010/).
 - 🌎 English speaker with an international background.
+- ## 🔗 Explore My Work
+- 📱 [Android Projects](https://github.com/nikolaivetrik24062010?tab=repositories&q=android)  
+- 🛡️ [Cybersecurity Projects](https://github.com/nikolaivetrik24062010/Cybersecurity-projects)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
