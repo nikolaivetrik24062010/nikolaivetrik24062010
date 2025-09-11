@@ -21,9 +21,37 @@ Feel free to fork, submit PRs, open issues, or share your feedback — all sugge
 ---
 
 ### 📌 Currently Working On
-- Building a **SOC Lab** (SIEM, Threat Hunting, Log Analysis).  
-- Android portfolio with **Jetpack Compose apps**.  
-- Preparing for **Security+** exam.  
+- Building a **SOC Lab** with Splunk & ELK (SIEM, Threat Hunting, Log Analysis).  
+- Practicing **Active Directory & Entra ID** labs (identity management, MFA, RBAC).  
+- Configuring **DNS, DHCP, and Exchange Online** in home lab environments.  
+- Exploring **AWS Cloud Security** (IAM policies, CloudTrail, S3 security, GuardDuty).  
+- Hands-on training with **phishing attack simulation** & security awareness.  
+- Android portfolio with **Jetpack Compose apps** (clean architecture, authentication).  
+- Preparing for **CompTIA Security+** exam.  
+- Studying **incident response playbooks** and MITRE ATT&CK mapping.  
+- Practicing **PowerShell & Python scripting** for automation and log analysis.  
+- Working through **TryHackMe & HackTheBox** blue-team and red-team labs.  
+
+---
+
+### 🎯 Certifications Roadmap
+As part of my WGU Cybersecurity program, I’m working toward a full stack of industry-recognized certifications:
+
+1. 🖥️ **CompTIA A+** – IT fundamentals, troubleshooting, hardware/software.  
+2. 🌐 **CompTIA Network+** – Networking foundations, protocols, devices.  
+3. 🔐 **CompTIA Security+** – Core cybersecurity, risk management, incident response.  
+4. 📊 **CompTIA Project+** – IT project management essentials.  
+5. 🛠️ **CompTIA IT Operations Specialist (A+ + Network+)**  
+6. 🛡️ **CompTIA Secure Infrastructure Specialist (Network+ + Security+)**  
+7. 💾 **CompTIA Systems Support Specialist (A+ + Linux+)**  
+8. ☁️ **CompTIA Cloud+** – Multi-platform cloud computing & virtualization.  
+9. 🕵️ **CompTIA CySA+ (Cybersecurity Analyst)** – Threat detection & SOC analysis.  
+10. 🎯 **CompTIA PenTest+** – Penetration testing & vulnerability assessment.  
+11. 📑 **CompTIA ITIL® Foundations** – IT service management practices.  
+12. 🧑‍💻 **EC-Council CEH (Certified Ethical Hacker)** – Ethical hacking & tools.  
+13. 🐧 **LPI Linux Essentials** – Linux basics for security & administration.  
+14. ☁️ **AWS Cloud Practitioner** – AWS fundamentals, IAM, cloud security.  
+15. 🏗️ **AWS Solutions Architect – Associate** *(planned advanced path)*.  
 
 ---
 
