@@ -15,7 +15,7 @@ Feel free to fork, submit PRs, open issues, or share your feedback — all sugge
 ---
 
 ### 🔗 Explore My Work
-📱 [**Android Projects**](https://github.com/nikolaivetrik24062010?tab=repositories)  
+📱 [**Android Projects**](https://github.com/nikolaivetrik24062010/Andriod-projects?tab=readme-ov-file)  
 🛡️ [**Cybersecurity Projects**](https://github.com/nikolaivetrik24062010/Cybersecurity-projects)  
 
 ---
