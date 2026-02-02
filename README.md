@@ -70,9 +70,3 @@ I am systematically validating my 10 years of experience with U.S. industry-reco
 </p>
 
 ---
-
-### 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikolaivetrik24062010&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaivetrik24062010&layout=compact&theme=tokyonight" height="165"/>
-</p>
