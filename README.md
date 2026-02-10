@@ -1,62 +1,62 @@
-<h2 align="center">Hi there 👋, I'm Nikolai — Senior Security Engineer & Software Developer</h2>
+<h2 align="center">Hi there 👋, I'm Nikolai — Security Engineer</h2>
 
 <p align="center">
-  <b>10+ Years of Professional Experience in Cybersecurity & Software Engineering</b><br>
-  Focused on <b>Android Security</b>, <b>AppSec</b>, and <b>Critical Infrastructure Protection</b>.
+  <b>9+ Years of Professional Experience in Systems, Networks, and Mobile Security</b><br>
+  Bridging the gap between <b>Secure Infrastructure</b> and <b>Application Resilience</b>.
 </p>
 
 ---
 
 ### 🛡️ Professional Profile
-- 🛡️ **Senior Security Engineer**: 6+ years in Cybersecurity (Critical Infrastructure / SOC / Threat Analysis).
-- 📱 **Android Expert**: 3+ years of Professional Android Development (Fintech / Secure Architecture).
+- 📱 **Mobile Security Engineer (3+ Years)**: Focused on Secure Android Development, Application Hardening, and FinTech Security (U.S. Based).
+- 🔐 **Systems & Network Security Administrator (6+ Years)**: Managing Critical National Infrastructure, Network Hardening, and Security Operations (Russian Railways).
 - 🎓 **Education**: B.S. in Cybersecurity and Information Assurance at **WGU**.
 - 📍 **Location**: California, USA.
 
 ---
 
-### 🚀 Featured Security & Dev Expertise
-* **Mobile Security**: Reverse Engineering (Frida, Jadx), Android Keystore, Certificate Pinning, OWASP Mobile Top 10.
-* **Application Security (AppSec)**: Secure SDLC, SAST/DAST, Threat Modeling, OAuth2/JWT implementation.
-* **Infrastructure & Cloud**: AWS/Firebase Security, IAM, Network Hardening, SIEM (Splunk/ELK).
-* **Critical Infrastructure**: Former Cybersecurity Specialist at one of the world's largest railway networks (RZD).
+### 🚀 Technical Expertise
+* **Mobile AppSec**: OWASP Mobile Top 10, Reverse Engineering (Frida, Jadx), Android Keystore, Certificate Pinning, Secure SDLC.
+* **Network Security**: WAN/LAN Hardening, Firewall/IDS/IPS Management, VPN Tunneling, Network Auditing, Protocol Analysis (Wireshark).
+* **Systems Administration**: Hardening Windows/Linux Servers, Identity & Access Management (IAM), Active Directory, Business Continuity & Disaster Recovery.
+* **SOC & Monitoring**: Incident Response, Log Analysis (SIEM), Vulnerability Management, Threat Hunting.
 
 ---
 
 ### 🔗 Explore My Portfolio
-🛡️ [**Cybersecurity & SOC Labs**](https://github.com/nikolaivetrik24062010/Cybersecurity-projects) — Threat hunting, Network Security, and Security Audits.  
-📱 [**Advanced Android Projects**](https://github.com/nikolaivetrik24062010/Andriod-projects) — Secure fintech apps, Clean Architecture, and Kotlin/Compose.  
+🛡️ [**Cybersecurity & SOC Labs**](https://github.com/nikolaivetrik24062010/Cybersecurity-projects) — Network Hardening, SIEM, and Vulnerability Assessments.  
+📱 [**Mobile Security Projects**](https://github.com/nikolaivetrik24062010/Andriod-projects) — Secure Fintech App Architectures and Application Hardening.  
 
 ---
 
 ### 🛠️ Currently Hardening My Skills
-- 🏗️ **Building Cloud-Native Security**: Implementing automated security guardrails in AWS.
-- 🕵️ **Advanced SOC Lab**: Deploying Splunk & ELK for real-time monitoring and incident response.
-- 📜 **Certification Sprint**: Earned **CompTIA A+**; currently finishing **Network+**, **Security+** and **AWS Solutions Architect**.
-- 🐍 **Automation**: Developing Python/Bash scripts for automated vulnerability scanning.
+- 🏗️ **Infrastructure as Code (IaC)**: Automating security guardrails for Cloud and On-prem environments.
+- 🕵️ **Advanced SOC Lab**: Scaling Splunk & ELK for real-time monitoring of hybrid infrastructures.
+- 📜 **Certification Sprint**: Validating a decade of experience with **CompTIA Security+**, **CySA+**, and **AWS Solutions Architect**.
+- 🐍 **Security Automation**: Writing Python and Bash scripts for automated network auditing and remediation.
 
 ---
 
 ### 🎯 Professional Certifications (WGU Path)
-I am systematically validating my 10 years of experience with U.S. industry-recognized credentials:
+Systematically validating 9 years of hands-on experience with industry-standard credentials:
 - ✅ **CompTIA Security+** (Earned)
+- ✅ **CompTIA Network+** (Earned)
+- ✅ **CompTIA A+** (Earned)
 - 🔜 **CompTIA CySA+** (Cybersecurity Analyst)
-- 🔜 **CompTIA PenTest+** (Penetration Testing)
-- 🔜 **AWS Cloud Practitioner / Solutions Architect**
-- 🔜 **EC-Council Certified Ethical Hacker (CEH)**
+- 🔜 **AWS Solutions Architect – Associate**
 
 ---
 
 ### ⚡ Technical Toolbox
 <p align="left"> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 ---
@@ -68,5 +68,3 @@ I am systematically validating my 10 years of experience with U.S. industry-reco
 <a href="mailto:nikolaivetrikdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/Nikolai24062010"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
----
