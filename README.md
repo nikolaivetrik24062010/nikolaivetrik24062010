@@ -36,14 +36,22 @@
 - 🐍 **Security Automation**: Writing Python and Bash scripts for automated network auditing and remediation.
 
 ---
+### 🎯 Professional Certifications (WGU Cybersecurity Path)
+I am systematically validating my 9+ years of experience through the **WGU B.S. Cybersecurity & Information Assurance** program, earning industry-standard credentials:
 
-### 🎯 Professional Certifications (WGU Path)
-Systematically validating 9 years of hands-on experience with industry-standard credentials:
-- ✅ **CompTIA Security+** (Earned)
-- ✅ **CompTIA Network+** (Earned)
-- ✅ **CompTIA A+** (Earned)
+**Current Credentials:**
+- ✅ **CompTIA Security+** — Certified Security Professional.
+- ✅ **CompTIA Network+** — Network Infrastructure & Security.
+- ✅ **CompTIA A+** — Systems & Device Management.
+- ✅ **ITIL® 4 Foundation** — IT Service Management.
+
+**In Progress (WGU Degree Completion):**
+- 🔜 **ISC² CC (Certified in Cybersecurity)**
 - 🔜 **CompTIA CySA+** (Cybersecurity Analyst)
-- 🔜 **AWS Solutions Architect – Associate**
+- 🔜 **CompTIA PenTest+** (Penetration Testing)
+- 🔜 **CompTIA Project+** (Project Management)
+- 🔜 **LPI Linux Essentials**
+- 🔜 **AWS Solutions Architect – Associate** (Cloud Security Focus)
 
 ---
 
