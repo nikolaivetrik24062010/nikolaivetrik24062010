@@ -40,12 +40,13 @@
 I am systematically validating my 9+ years of experience through the **WGU B.S. Cybersecurity & Information Assurance** program, earning industry-standard credentials:
 
 **Current Credentials:**
-- ✅ **CompTIA Security+** — Certified Security Professional.
-- ✅ **CompTIA Network+** — Network Infrastructure & Security.
 - ✅ **CompTIA A+** — Systems & Device Management.
-- ✅ **ITIL® 4 Foundation** — IT Service Management.
 
 **In Progress (WGU Degree Completion):**
+
+- 🔜 **CompTIA Security+** — Certified Security Professional.
+- 🔜 **CompTIA Network+** — Network Infrastructure & Security.
+- 🔜 **ITIL® 4 Foundation** — IT Service Management.
 - 🔜 **ISC² CC (Certified in Cybersecurity)**
 - 🔜 **CompTIA CySA+** (Cybersecurity Analyst)
 - 🔜 **CompTIA PenTest+** (Penetration Testing)
