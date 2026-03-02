@@ -1,14 +1,9 @@
 # 🛡️ Nikolai | Security Engineer 
 
 **9+ Years of Battle-Tested Experience: From Critical National Infrastructure to Mobile FinTech.** Bridging the gap between **Secure Infrastructure** and **Application Resilience**.
-
----
-
 ### 🚀 Featured Security Projects
-* 📱 [**Mobile Security & FinTech Hardening**]([https://github.com/Nikolai-CyberSec/Andriod-security-projects]) — Architecting secure Android environments, implementing Certificate Pinning, and mitigating OWASP Mobile Top 10 risks.
+* 📱 [**Mobile Security & FinTech Hardening**](https://github.com/Nikolai-CyberSec/Android-security-projects) — Architecting secure Android environments, implementing Certificate Pinning, and mitigating OWASP Mobile Top 10 risks.
 * 🛡️ [**Cybersecurity & SOC Labs**](https://github.com/Nikolai-CyberSec/Cybersecurity-projects) — Hands-on implementation of SIEM (Splunk/ELK), Network Hardening, and Vulnerability Management.
-
----
 
 ### 🛠️ Technical Arsenal
 * **Mobile AppSec:** Reverse Engineering (Frida, Jadx), Android Keystore, Secure SDLC, Obfuscation.
